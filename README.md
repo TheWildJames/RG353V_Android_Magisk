@@ -54,13 +54,8 @@ Installed Apps:
 * Termux
 * Fdroid
 
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
-## Getting Started
+### Getting Started
 
 **WARNING**
 **I AM NOT RESPONSIBLE FOR ANYTHING YOU DO WITH YOUR DEVICE**
