@@ -36,58 +36,36 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+This sdupdate.img is the 1.20e android update for RG353V! 
 
-This sdupdate.img is the 1.20e for RG353V 
-It comes with Magisk installed!
-boot.img is provided by @TheGammaSqueeze#4045 
-This has some fixes in it and i preinstalled magisk also!
-⁠Retro Game Handhelds⁠
-This come already in the sdupdate.img!
+This has some fixes in it and preinstalled magisk also!⁠
 
 Built in root renamed to zu so it will not interact with magisk anymore causing an error. Root controlled by magisk now.
 
 super.img edited to be RW from RO.
-/system is now extended to make space for any system apps need to be installed or such.
-https://forum.xda-developers.com/t/magisk-twrp-arm32-64-a8-universal-read-only-to-read-write-for-android-ro2rw-auto-converting-super-system-partitions-to-read-write-mode.4521131/
+/system is now extended to be able to add files and such.
 
 Playstore Preinstalled and all required files and apps for playstore to run correctly installed.
-https://sourceforge.net/projects/magiskgapps/
-FoxMMM Installed
-Magisk App installed
-Device ID - used for activating play store installed
-Termux Installed
-Fdroid Installed
+
+Installed Apps:
+* FoxMMM
+* Magisk App
+* Device ID
+* Termux
+* Fdroid
 
 
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+# WARNING
+### I AM NOT RESPONSIBLE FOR ANYTHING YOU DO WITH YOUR DEVICE
+# WARNING
+
 
 ### Prerequisites
 
