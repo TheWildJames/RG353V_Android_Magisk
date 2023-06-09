@@ -26,56 +26,39 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">RG353V 1.20e Magisk</h3>
+  <h3 align="center">RG353V 1.20e Edit</h3>
 
   <p align="center">
     A modified update.img with magisk and fixs preinstalled!
   </p>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This sdupdate.img is the 1.20e for RG353V 
+It comes with Magisk installed!
+boot.img is provided by @TheGammaSqueeze#4045 
+This has some fixes in it and i preinstalled magisk also!
+⁠Retro Game Handhelds⁠
+This come already in the sdupdate.img!
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Built in root renamed to zu so it will not interact with magisk anymore causing an error. Root controlled by magisk now.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+super.img edited to be RW from RO.
+/system is now extended to make space for any system apps need to be installed or such.
+https://forum.xda-developers.com/t/magisk-twrp-arm32-64-a8-universal-read-only-to-read-write-for-android-ro2rw-auto-converting-super-system-partitions-to-read-write-mode.4521131/
+
+Playstore Preinstalled and all required files and apps for playstore to run correctly installed.
+https://sourceforge.net/projects/magiskgapps/
+FoxMMM Installed
+Magisk App installed
+Device ID - used for activating play store installed
+Termux Installed
+Fdroid Installed
+
 
 Use the `BLANK_README.md` to get started.
 
